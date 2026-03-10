@@ -1,0 +1,139 @@
+%------------------------
+% CV (structure type faculté, contenu adapté)
+%------------------------
+
+\documentclass[a4paper,9pt]{extarticle}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{changepage}
+
+% Formatting
+\setlist{noitemsep}
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip}
+
+\newenvironment{subs}
+  {\adjustwidth{2em}{0pt}}
+  {\endadjustwidth}
+
+\begin{document}
+\pagestyle{empty}
+
+% ---------------- Header ----------------
+\begin{center}
+    {\LARGE \textbf{SAAD EL OUTATI}}\\[4pt]
+    \textbf{Apprenti Ingénieur – ESIEE Paris}\\
+    \textbf{Data, Applications \& IA}\\[6pt]
+    \href{mailto:saad.eloutati@edu.esiee.fr}{saad.eloutati@edu.esiee.fr} \,|\, 
+    +33 7 83 61 19 52 \,|\, 
+    \href{https://www.linkedin.com/in/saad-el-outati/}{linkedin.com/in/saad-el-outati}
+\end{center}
+
+\vspace{6pt}
+
+% ---------------- Summary ----------------
+\begin{center}
+\parbox{1\linewidth}{
+À la recherche d’une alternance de 24 mois à partir de septembre 2026.
+
+}
+\end{center}
+
+% ---------------- Education ----------------
+\section*{FORMATION}
+
+\noindent
+\textbf{Diplôme d’Ingénieur – Data et Applications (E3FD)} \hfill \textit{September 2025 - Diplôme prévue en Avril 2028}\\
+
+ESIEE Paris – Université Gustave Eiffel
+\begin{subs}
+\begin{itemize}[leftmargin=14pt]
+    \item Programmation et algorithmes : Python (programmation avancée, manipulation de données), C/C++.
+    \item Data science et IA : probabilités et statistiques, optimisation, machine learning, deep learning et applications.
+    \item Data engineering : bases de données relationnelles (SQL), systèmes d’exploitation, réseaux et cybersécurité.
+\end{itemize}
+\end{subs}
+
+\vspace{6pt}
+\noindent
+\textbf{Classes Préparatoires aux Grandes Écoles – PCSI/PSI*} \hfill \textit{September 2023 - Juin 2025}\\
+
+Lycée Épiscopal Saint-Étienne – Strasbourg
+\begin{subs}
+\begin{itemize}[leftmargin=14pt]
+    \item Formation scientifique intensive en Mathématiques, Physique et Sciences de l’Ingénieur.
+    \item Développement de la rigueur analytique et de compétences avancées en résolution de problèmes.
+\end{itemize}
+\end{subs}
+
+% ---------------- Experience ----------------
+\section*{EXPÉRIENCE}
+\vspace{2pt}
+
+\noindent
+\textbf{Mes projets professionnels : }
+\href{https://github.com/SaadELOUTATI}{github.com/SaadELOUTATI}
+
+\vspace{6pt}
+\noindent
+\textbf{Fondateur \& Président – FINANCE Club} \hfill \textit{Depuis déc. 2025}
+
+\begin{subs}
+\begin{itemize}[leftmargin=14pt]
+    \item Création et structuration d’un club étudiant dédié à la finance et à l’analyse de données.
+    \item Analyse exploratoire de jeux de données financiers : nettoyage, structuration et interprétation.
+    \item Construction et analyse de KPI financiers (tendances, comparaisons, indicateurs quantitatifs).
+    \item Réalisation d’études de cas data-driven et présentation des résultats (rapports, supports).
+\end{itemize}
+\end{subs}
+
+\vspace{6pt}
+\noindent
+\textbf{Responsable Suivi d’Étude – Junior ESIEE} \hfill \textit{Depuis nov. 2025}
+
+\begin{subs}
+\begin{itemize}[leftmargin=14pt]
+    \item Suivi de l’avancement des projets et des livrables via des indicateurs de performance.
+    \item Mise à jour de tableaux de bord pour identifier écarts, risques et points de blocage.
+    \item Aide à la prise de décision via des recommandations basées sur l’analyse de données projet.
+    \item Coordination avec les chefs de projet et les clients jusqu’à la clôture des missions.
+\end{itemize}
+\end{subs}
+
+\vspace{6pt}
+\noindent
+\textbf{Stage – Département Informatique – Renault Group} \hfill \textit{juin–juil. 2024}
+
+\begin{subs}
+\begin{itemize}[leftmargin=14pt]
+    \item Contribution à la configuration d’appareils mobiles pour les opérations logistiques.
+    \item Support à l’intégration d’outils numériques de suivi et de traçabilité.
+    \item Collaboration avec les équipes terrain et assistance au département IT.
+\end{itemize}
+\end{subs}
+
+% ---------------- IT Skills ----------------
+\section*{COMPÉTENCES}
+
+\noindent
+\textbf{Langages de programmation :} Python (Pandas, NumPy, Scikit‑learn, TensorFlow/PyTorch), SQL, C, C++, LaTeX, R, COBOL\\
+\textbf{Outils :} Matlab, Scilab, Git, Keilvision, Maîtrise du pack office, Power BI, MS Projet\\
+\textbf{Data :} Data science, Machine learning, Statistiques, Modélisation, Data visualisation\\
+\textbf{Compétences transverses :} Gestion de projet, Communication professionnelle, Travail en équipe, Adaptabilité
+
+% ---------------- Soft Skills ----------------
+\section*{SOFT SKILLS}
+
+\noindent
+\textbf{Langues :} Français (natif), Arabe (natif), Anglais (C1), Espagnol (A2), Allemand (A2)\\
+\textbf{Centres d’intérêt :} Formule 1, Randonnée, Course à pied, Finance
+
+\end{document}
