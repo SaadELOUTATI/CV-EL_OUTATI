@@ -49,7 +49,7 @@
 
 ## 💼 Expériences
 
-###♟️ Président — Club Échecs (ESIEE)
+### ♟️ Président — Club Échecs (ESIEE)
 
 ### 📈 Fondateur & Président — Finance Club (ESIEE)
 
