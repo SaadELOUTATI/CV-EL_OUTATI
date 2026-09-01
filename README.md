@@ -1,8 +1,6 @@
 # 👋 Saad El Outati
 
 🎓 **Étudiant Ingénieur en Data & Applications – ESIEE Paris**  
-📊 Intéressé par la **Data Science, le Machine Learning et la Data appliquée à la finance**  
-🚀 À la recherche d'une **alternance de 24 mois à partir de septembre 2026**
 
 ---
 
@@ -32,7 +30,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 
 ### 📊 Data & IA
 
@@ -46,12 +44,12 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matlab](https://img.shields.io/badge/Matlab-orange?style=for-the-badge)
-![Scilab](https://img.shields.io/badge/Scilab-blue?style=for-the-badge)
 
 ---
 
 ## 💼 Expériences
+
+###♟️ Président — Club Échecs (ESIEE)
 
 ### 📈 Fondateur & Président — Finance Club (ESIEE)
 
